@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="foods">
+        
+        <item>當地名產-太陽餅</item>
+        <item>當地名產-豬血糕</item>
+        <item>當地名產-薯條</item>
+        <item>當地名產-脆皮雞盤</item>
+        <item>當地名產-雞米花</item>
+        <item>當地名產-雞塊</item>
+        <item>當地名產-花枝丸</item>
+        
+        <item>飲品暢飲系列-古早味紅茶</item>
+        <item>飲品暢飲系列-古早味酸梅湯</item>
+        <item>飲品暢飲系列-古早味奶茶</item>
+        <item>飲品暢飲系列-古早味檸檬</item>
+        <item>飲品暢飲系列-古早味金桔</item>
+        <item>飲品暢飲系列-韓式柚子茶</item>
+        <item>飲品暢飲系列-港式奶茶</item>
+        <item>飲品暢飲系列-藍莓茶</item>
+        <item>飲品暢飲系列-檸檬紅茶</item>
+        <item>飲品暢飲系列-草莓奶茶</item>
+        <item>飲品暢飲系列-木瓜牛奶</item>
+        
+        <item>漢堡系列-單層牛肉堡</item>
+        <item>漢堡系列-巨無霸牛肉堡</item>
+        <item>漢堡系列-雙層牛肉煲</item>
+        <item>漢堡系列-即是漢堡</item>
+        <item>漢堡系列-鮮蝦堡</item>
+        <item>漢堡系列-雞排漢堡</item>
+        <item>漢堡系列-雞腿堡</item>
+        <item>漢堡系列-招牌雞堡</item>
+        
+        <item>套餐系列-(牛頭+紅豆奶茶)</item>
+        <item>套餐系列-(招牌堡+大雞排+藍莓茶)</item>
+        <item>套餐系列-(墨西哥雞肉卷+大雞排+藍莓蛋糕)</item>
+         
+        <item>天天半價-紅豆奶茶</item>
+        <item>天天半價-芒果汁</item>
+        <item>天天半價-大陸雞柳</item>
+        <item>天天半價-大薯條</item>
+        
+    </string-array>
+</resources>

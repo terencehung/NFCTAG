@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/gift_head"
+        layout="@layout/common_above_title" />
+
+    <TextView
+        android:id="@+id/slidingpane_gift"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/gift_head"
+        android:gravity="center"
+        android:text="請通過年齡審查"
+        android:textSize="40sp" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/slidingpane_gift"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/edit_pic3"
+        android:scaleType="centerInside" />
+
+</RelativeLayout>
